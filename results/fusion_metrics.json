@@ -1,0 +1,14 @@
+{
+    "dataset": "KITTI 3D Object Detection Benchmark (subset)",
+    "num_frames_evaluated": 100,
+    "lidar_camera_fusion": {
+        "mae_m": 7.329629628491621,
+        "rmse_m": 12.310854399658076,
+        "num_matched_objects": 717
+    },
+    "monocular_baseline": {
+        "mae_m": 3.4251971496161913,
+        "rmse_m": 4.6558440071779765,
+        "num_matched_objects": 312
+    }
+}
